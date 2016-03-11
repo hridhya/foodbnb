@@ -1,1 +1,3 @@
-# foodbnb
+# FOODBNB
+
+Airbnb for food
